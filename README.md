@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Fuchs
+- 👀 I’m interested in xamarin
+- 🌱 I’m currently learning xamarin
+- 💞️ I’m looking to collaborate on UI
